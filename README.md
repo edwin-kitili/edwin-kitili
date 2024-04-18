@@ -1,11 +1,11 @@
-# Hi 👋🏼, I am Brian Kipkoech!
+# Hi 👋🏼, I am Edwin Nkumama!
 
 Welcome to my GitHub profile 🙏🏼
 
 ---
 ## About Me:
 <p align="left">
-  <img src="https://github.com/brian-kipkoech-tanui/brian-kipkoech-tanui/blob/master/Images/avatar.jpg" width="200" height="200">
+  <img src="./Images/avatar.jpg" width="200" height="200">
 </p>
 
 ### Machine Learning Engineer | Data Scientist
@@ -14,25 +14,28 @@ Welcome to my GitHub profile 🙏🏼
 
 ---
 ### Profile Summary
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brian-kipkoech-tanui&label=Profile%20views&color=0e75b6&style=flat" alt="brian-kipkoech-tanui" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=edwin-kitili&label=Profile%20views&color=0e75b6&style=flat" alt="edwin-kitili" />
+</p>
 
-I am a passionate data scientist and machine learning expert who is inspired by technology's capacity to resolve complex issues. I have experience in a variety of fields, including statistics, AI, computer vision, deep learning, mathematics, and NLP, and I'm always learning new things in these fields. My strategy is focused on producing high-quality outcomes while also valuing lifelong learning and personal growth.
+I am a dedicated Database Administrator driven by the transformative power of technology in solving intricate challenges. With a rich background in database management, I bring expertise across various domains, including data modeling, query optimization, performance tuning, and system administration. My approach is rooted in delivering excellence while embracing continuous learning and personal development.
 <br><br>
-In addition to my expertise in machine learning and data science, I have also worked with DevOps and AWS (Amazon Web Services). I have worked on using AWS's services like SageMaker, EC2, RDS, S3, Step Functions, and Lambda to implement machine learning models and create scalable and reliable systems. I recognize the value of having a strong DevOps culture in machine learning and data science, and I work hard to incorporate best practices into my workflows to guarantee efficient and effective machine learning model development, testing, and deployment.
-<br><br>
-I am dedicated to making an impact, with a focus on data science and machine learning. My portfolio, featuring my work and contributions, can be viewed on GitHub *(here, under [repositories](https://github.com/brian-kipkoech-tanui?tab=repositories))*. I am appreciative of chances to advance professionally, demonstrate my knowledge, and demonstrate my dedication to leaving a lasting impression. If you share my vision and wish to collaborate, feel free to reach out at 📫 briankipkoechtanui@gmail.com
+I am committed to driving impact through effective database management. My portfolio, showcasing my projects and contributions, can be explored on [GitHub](https://github.com/edwin-kitili?tab=repositories).
+I welcome opportunities to advance professionally, showcase my expertise, and make a meaningful difference. If you resonate with my approach and seek collaboration, feel free to connect with me at 📫 edwinkitili@gmail.com.
+
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brian-kipkoech-tanui&theme=midnight-purple" alt="brian-kipkoech-tanui" /></a> </p> -->
 
 #### Professional Links:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/briankipkoech/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/brian-kipkoech-tanui)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/edwin-nkumama/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/edwin-kitili)
 
 
 ---
 ## Domains of Interests & Expertise
 :comet: Statistics <br>
+:comet: Database Administration <br>
 :comet: Data Science <br>
 :comet: Machine Learning <br>
 :comet: Artificial Intelligence <br>
@@ -57,15 +60,15 @@ I am dedicated to making an impact, with a focus on data science and machine lea
     <img src="./Images/Icons/240px-SCIPY_2.svg.png" height="30">
     <img src="./Images/Icons/postgreSQL.png" height="30">
     <img src="./Images/Icons/MySQL_textlogo.svg.png" height="30">
-    <img src="./Images/Icons/AWS-Certified-Solutions-Architect.png" height="30">
-    <img src="./Images/Icons/Tableau_Software_Logo_Small.png" height="30">
+    <!-- <img src="./Images/Icons/AWS-Certified-Solutions-Architect.png" height="30"> -->
+    <!-- <img src="./Images/Icons/Tableau_Software_Logo_Small.png" height="30"> -->
     <img src="./Images/Icons/Matplotlib_logo.svg" height="30">
     <img src="./Images/Icons/seaborn_logo.svg" height="30">
     <img src="./Images/Icons/Tensorflow_logo.png" height="30">
     <img src="./Images/Icons/keras-logo-2018-large-1200.png" height="30">
-    <img src="./Images/Icons/AWS-Certified-Cloud-Practitioner.png" height="30">
-    <img src="./Images/Icons/SageMaker-300x150.jpg" height="30">
-    <img src="./Images/Icons/320px-Amazon_Web_Services_Logo.svg.png" height="30">
+    <!-- <img src="./Images/Icons/AWS-Certified-Cloud-Practitioner.png" height="30"> -->
+    <!-- <img src="./Images/Icons/SageMaker-300x150.jpg" height="30"> -->
+    <!-- <img src="./Images/Icons/320px-Amazon_Web_Services_Logo.svg.png" height="30"> -->
     <img src="./Images/Icons/Git-Logo-2Color.png" height="30">
     <!-- <img src="./Images/Icons/Twilio-logo-red.svg.png" height="30">
     <img src="./Images/Icons/Trello-logo-blue.svg.png" height="30"> -->
@@ -88,7 +91,7 @@ I am dedicated to making an impact, with a focus on data science and machine lea
 [![SciPy](https://img.shields.io/badge/SciPy-1.7.0-orange.svg)](https://scipy.org/)
 [![Java](https://img.shields.io/badge/Java-21-green.svg)](https://www.oracle.com/java/technologies/downloads/)
 [![SpringBoot](https://img.shields.io/badge/Springboot-3.2.2-blue.svg)](https://spring.io/projects/spring-boot)
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-black.svg)](https://learn.microsoft.com/en-us/windows/dev-environment/javascript/)
+<!-- [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-black.svg)](https://learn.microsoft.com/en-us/windows/dev-environment/javascript/) -->
 ---
 ### 💾 Database Management
 
@@ -105,7 +108,7 @@ I am dedicated to making an impact, with a focus on data science and machine lea
 ---
 ### 📊 Data Visualization
 
-[![PowerBI](https://img.shields.io/badge/PowerBI-2023.0-yellow.svg)](https://www.microsoft.com/en-us/power-platform/products/power-bi)
+<!-- [![PowerBI](https://img.shields.io/badge/PowerBI-2023.0-yellow.svg)](https://www.microsoft.com/en-us/power-platform/products/power-bi) -->
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-4.0.0-orange.svg)](https://matplotlib.org/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-1.2.0-red.svg)](https://seaborn.pydata.org/)
 ---
@@ -146,7 +149,7 @@ I am dedicated to making an impact, with a focus on data science and machine lea
 [![EDA](https://img.shields.io/badge/Exploratory%20Data%20Analysis-DS%20&%20ML-red.svg)](https://en.wikipedia.org/wiki/Exploratory_data_analysis)
 [![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-DS%20&%20ML-red.svg)](https://en.wikipedia.org/wiki/Feature_engineering)
 [![Model Building and Evaluation](https://img.shields.io/badge/Model%20Building%20and%20Evaluation-DS%20&%20ML-red.svg)](https://en.wikipedia.org/wiki/Model_selection)
----
+<!-- ---
 ### :cloud: AWS
 
 [![SageMaker](https://img.shields.io/badge/AWS-SageMaker-red.svg)](https://aws.amazon.com/sagemaker/)
@@ -166,14 +169,14 @@ I am dedicated to making an impact, with a focus on data science and machine lea
 [![Batch](https://img.shields.io/badge/AWS-Batch-red.svg)](https://aws.amazon.com/batch/)
 [![Step Functions](https://img.shields.io/badge/AWS-Step%20Functions-red.svg)](https://aws.amazon.com/step-functions/)
 [![IAM](https://img.shields.io/badge/AWS-IAM-red.svg)](https://aws.amazon.com/iam/)
-[![CloudWatch](https://img.shields.io/badge/AWS-CloudWatch-red.svg)](https://aws.amazon.com/cloudwatch/)
+[![CloudWatch](https://img.shields.io/badge/AWS-CloudWatch-red.svg)](https://aws.amazon.com/cloudwatch/) -->
 
 ---
 ### 📜 Miscellaneous
 
 [![Git](https://img.shields.io/badge/Git-v2.31.0-blue.svg)](https://git-scm.com/)
-[![Django](https://img.shields.io/badge/Django_Web_Framework-green.svg)](https://www.djangoproject.com/)
-[![React](https://img.shields.io/badge/React-Web_Framework-lightgrey.svg)](https://reactjs.org/)
+<!-- [![Django](https://img.shields.io/badge/Django_Web_Framework-green.svg)](https://www.djangoproject.com/) -->
+<!-- [![React](https://img.shields.io/badge/React-Web_Framework-lightgrey.svg)](https://reactjs.org/) -->
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-Interactive_Computing-orange.svg)](https://jupyter.org/)
 [![Lab](https://img.shields.io/badge/Lab-Jupyter_Lab-lightblue.svg)](https://jupyterlab.readthedocs.io/en/stable/)
 [![Google Colab](https://img.shields.io/badge/Google_Colab-Collaborative_Computing-yellow.svg)](https://colab.research.google.com/)
@@ -182,7 +185,7 @@ I am dedicated to making an impact, with a focus on data science and machine lea
 [![Beautiful Soup](https://img.shields.io/badge/Beautiful_Soup-Web_Scraping-red.svg)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brian-kipkoech-tanui&theme=midnight-purple)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brian-kipkoech-tanui&theme=midnight-purple) -->
 <!-- ![Brian Kipkoech's GitHub stats](https://github-readme-stats-v8y1-git-master-brian-kipkoechs-projects.vercel.app/api?username=brian-kipkoech-tanui) -->
 <br>
 <!-- ![Snake animation](https://github.com/brian-kipkoech-tanui/brian-kipkoech-tanui/blob/output/github-contribution-grid-snake.svg)
