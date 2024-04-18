@@ -8,9 +8,9 @@ Welcome to my GitHub profile 🙏🏼
   <img src="./Images/avatar.jpg" width="200" height="200">
 </p>
 
-### Machine Learning Engineer | Data Scientist
+### Database Administrator
 
-*I create algorithms and models that help computers learn from data and make forecasts, resulting in valuable business insights.*
+*A seasoned Database Administrator dedicated to leveraging technology for solving complex challenges, with expertise in data modeling, query optimization, performance tuning, and system administration, committed to delivering excellence and driving impact through effective database management.*
 
 ---
 ### Profile Summary
